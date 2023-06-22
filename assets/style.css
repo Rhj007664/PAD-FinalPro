@@ -1,0 +1,39 @@
+/* styles.css */
+
+.navbar {
+    padding: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: center;
+}
+
+.navbarLink {
+    font-family: "Times New Roman", Times, serif;
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.navbarLink:hover {
+    
+    color: blue;
+    
+}
+.navbarLink:active {
+    
+    color: blue;
+    
+}
+hr {
+    color : blue;
+}
+.titleCss {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+
